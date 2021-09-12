@@ -1,0 +1,30 @@
+* {
+  font-family: 'Roboto', sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1em;
+  margin-bottom: 0em;
+  color: #ffffff;
+  background-color: #282c34;
+}
+
+.photo {
+  width: 100%;
+  height: auto;
+}
+
+.welcome {
+  font-size: 55px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  margin-right: 1em;
+  color:#282c34;
+}
